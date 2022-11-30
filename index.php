@@ -1,6 +1,6 @@
 <?php
 
-$name = "Joshua Andrew James Wilson";
+$name = "First Middle Last";
 
 $ename = explode(" ",$name);
 
